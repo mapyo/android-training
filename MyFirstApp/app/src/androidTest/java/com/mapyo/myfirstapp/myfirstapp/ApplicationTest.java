@@ -1,4 +1,4 @@
-package com.mapyo.myfirstapp.myapplication;
+package com.mapyo.myfirstapp.myfirstapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

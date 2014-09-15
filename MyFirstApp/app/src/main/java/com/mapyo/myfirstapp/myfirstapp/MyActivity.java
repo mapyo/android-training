@@ -1,4 +1,4 @@
-package com.mapyo.myfirstapp.myapplication;
+package com.mapyo.myfirstapp.myfirstapp;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
