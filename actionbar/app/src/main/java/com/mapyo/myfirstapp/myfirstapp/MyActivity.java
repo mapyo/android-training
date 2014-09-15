@@ -43,10 +43,10 @@ public class MyActivity extends ActionBarActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         switch (item.getItemId()) {
             case R.id.action_search:
-                openSearch();
+                //openSearch();
                 return true;
             case R.id.action_settings:
-                openSettings();
+                //openSettings();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
