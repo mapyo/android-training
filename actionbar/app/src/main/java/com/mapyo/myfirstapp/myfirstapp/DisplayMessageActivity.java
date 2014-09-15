@@ -30,6 +30,8 @@ public class DisplayMessageActivity extends ActionBarActivity {
         testView.setText(message);
         setContentView(testView);
 
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 //        setContentView(R.layout.activity_display_message);
 //        if (savedInstanceState == null) {
 //            getSupportFragmentManager().beginTransaction()
