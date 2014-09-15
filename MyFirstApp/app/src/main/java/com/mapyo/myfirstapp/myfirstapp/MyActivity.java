@@ -61,4 +61,9 @@ public class MyActivity extends ActionBarActivity {
             return rootView;
         }
     }
+
+    /** Called when the user clicks the Send button */
+    public void sendMessage(View view) {
+        
+    }
 }
